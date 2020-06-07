@@ -1,0 +1,12 @@
+.idea/
+target/
+bin/
+include/
+lib
+lib64
+share
+*.iml
+*.jar
+*.class
+spark-warehouse
+
